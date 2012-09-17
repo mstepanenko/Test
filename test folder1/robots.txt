@@ -1,0 +1,13 @@
+########################################################
+#
+#    Sephora.com Robots File
+#    Last Updated on March 8th, 2012
+#
+########################################################
+
+User-agent: *
+Disallow: /basket*
+Disallow: /profile*
+
+
+Sitemap: http://www.sephora.com/sitemap.xml

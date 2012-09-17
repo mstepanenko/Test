@@ -1,0 +1,36 @@
+<html>
+<head>
+    <title>Sephora.com :: Page Unavailable</title>
+		<link rel="stylesheet" type="text/css" href="/akfailover/main.css">
+		<droplet src="/akfailover/coremetricsHdr.jhtml"></droplet>
+		<script language="javascript" src="/akfailover/_numeric_.js?release=20100727"></script>
+</head>
+<body bgcolor="#FFFFFF" topmargin="0" marginheight="0" leftmargin="0">
+	<script language="javascript">
+	<!--
+		var pageID = "Error Page 404 DSA";
+	// -->
+	</script>
+	<center>
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+							<td bgcolor="#000000" align="center">
+									   <a href="http://www.sephora.com">
+											<img src="/akfailover/cart_logo_bar.gif" alt="Sephora.com" width="770" height="70" border="0">
+									</a>
+							</td>
+					</tr>
+			</table>
+
+			<table style="margin-top: 30px; "width="890" border="0" cellspacing="0" cellpadding="1">
+					<tr>
+							<td style=" padding: 60px 0; border-top: 3px black solid; border-bottom: 3px black solid;">
+									<img style="margin: 0 30px; float:left;" src="/akfailover/404.jpg" alt="404" />
+									<img style="margin-top: 30px; float:left;" src="/akfailover/404oops.jpg" alt="oops..."/>
+							</td>
+					</tr>
+			</table>
+	</center>
+</body>
+</html>
+
